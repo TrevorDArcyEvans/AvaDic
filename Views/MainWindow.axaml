@@ -16,7 +16,7 @@
   </Design.DataContext>
 
   <Grid
-    ColumnDefinitions="Auto,Auto,*"
+    ColumnDefinitions="Auto,25,Auto,*"
     RowDefinitions="Auto,Auto,Auto">
 
     <TextBlock
@@ -34,10 +34,10 @@
     </ComboBox>
 
     <TextBlock
-      Grid.Row="0" Grid.Column="1"
+      Grid.Row="0" Grid.Column="2"
       Text="Dictionary" />
     <ComboBox
-      Grid.Row="1" Grid.Column="1"
+      Grid.Row="1" Grid.Column="2"
       Name="DictBox"
       ItemsSource="{Binding DataDict, Mode=TwoWay, UpdateSourceTrigger=Explicit}">
       <ComboBox.ItemTemplate>
