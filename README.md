@@ -6,7 +6,7 @@
 
 
 ## Platform
-* Linux Mint
+* Linux Mint 21.2
 * Avalonia --> 11.2.4
 * Avalonia.Desktop --> 11.2.4
 * Avalonia.Themes.Fluent --> 11.2.4
