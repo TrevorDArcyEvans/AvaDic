@@ -104,6 +104,11 @@ dotnet run
 * [EXPECTED] ItemsSource aka DataMap not to be null
 
 
+## [Avalonia](https://github.com/AvaloniaUI/Avalonia) repository
+* [AvaloniaDictionary does not show ItemTemplate](https://github.com/AvaloniaUI/Avalonia/issues/18296)
+* [BindingOperations.GetBindingExpressionBase().UpdateSource() does not update ItemsSource](https://github.com/AvaloniaUI/Avalonia/issues/18297)
+* [BindingOperations.GetBindingExpressionBase().UpdateSource() second time deletes ItemsSource](https://github.com/AvaloniaUI/Avalonia/issues/18298)
+
 ## Acknowledgements
 * [AvaloniaDictionary](https://reference.avaloniaui.net/api/Avalonia.Collections/AvaloniaDictionary_2/)
 
